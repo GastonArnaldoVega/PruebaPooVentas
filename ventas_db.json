@@ -1,0 +1,16 @@
+{
+    "1995-07-1507:00": {
+        "tienda": "Centro",
+        "marca": "Nike",
+        "tipo": "Nike",
+        "genero": "Unisex",
+        "talla": "42",
+        "color": "Rojo",
+        "categoria": "Pantalon",
+        "precio": 55.0,
+        "fecha": "1995-07-15",
+        "hora": "07:00",
+        "efectivo": "5000",
+        "cheque": "5000"
+    }
+}
